@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+  }
+  
+  .barMenu{
+    background-color: #EB0029;
+    height: 40px;
+    padding-top: 5px;
+    width: 100%;
+   
+  }
+
+  .centro{
+    margin: 0 auto;
+    width: 400px;
+
+
+  }
+
+  .checo{
+    background-image: url("../img/checo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+  }
+
+  h1{
+    font-size: 4rem;
+    color:#EB0029;
+    text-align: center;
+  }
+
+  .txt{
+    color: #EB0029;
+    font-size: 2rem;
+    text-align: center;
+  }
+  #myVideo {
+    top:20px;
+    text-align: center;
+    max-width: none;
+    width:100%;
+    min-width: 100%; 
+    min-height: 100%;
+    
+  }
+
+  .pie{
+    background-image: url("../img/Car_2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 100%;
+    height: 468px;
+  }
+  
